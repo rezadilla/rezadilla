@@ -8,6 +8,12 @@ Currently I am open to any opportunity especially in Data as a Data Analyst, Dat
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadilla&layout=compact&bg_color=ffffff&card_width=444&hide_border=true&custom_title=Used Language&title_color=000"/> 
 
+### Let's connect!
+<p>
+    <a href="https://linkedin.com" target="blank"><img src="https://img.shields.io/badge/Reza_Dilla_Saputri-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://medium.com/@rezadilla30" target="blank"><img src="https://img.shields.io/badge/Reza_Dilla-30302f?style=flat&logo=medium" /></a>
+</p>
+
 
 <!--
 **rezadilla/rezadilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
