@@ -1,8 +1,8 @@
-### Hi there, I'm Reza Dilla!👋
+# Hi there, I'm Reza Dilla!👋
 Currently I am open to any opportunity especially in Data as a Data Analyst. Interested in Machine Learning and Artificial Intelligence
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
-### Stats:
+## Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on ... </br>
@@ -18,13 +18,13 @@ Currently I am open to any opportunity especially in Data as a Data Analyst. Int
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadilla&layout=compact" height=180 />
 
 
-### Data Portfolio
+## Data Portfolio
 <p>
     <a href="https://drive.google.com/drive/folders/1OFKHT_GgUs80ucur4m6qqNWs1mt33D78" target="blank"><img src="https://img.shields.io/badge/My_Portfolio-30302f?style=flat&logo=drive" /></a>
 </p>
  
  
- ### Lets Connect
+ ## Let's Connect!
  <p>
   <a href="https://www.linkedin.com/in/reza-dilla-saputri-05b17b190/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedln-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://medium.com/@rezadilla30" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>  
