@@ -1,5 +1,5 @@
 ### Hi there, I'm Reza!👋
-Currently I am open to any opportunity especially in Data. Interested in Machine Learning and Artificial Intelligence
+Currently I am open to any opportunity especially in Data as a Data Analyst. Interested in Machine Learning and Artificial Intelligence
 
 ### Stats:
 <details>
