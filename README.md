@@ -18,12 +18,19 @@ Currently I am open to any opportunity especially in Data as a Data Analyst. Int
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadilla&layout=compact" height=180 />
 
 
-### Let's connect!
+### Data Portfolio
 <p>
-    <a href="https://linkedin.com/in/reza-dilla-saputri-05b17b190/" target="blank"><img src="https://img.shields.io/badge/Reza_Dilla_Saputri-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@brezadilla30" target="blank"><img src="https://img.shields.io/badge/Reza_Dilla-30302f?style=flat&logo=medium" /></a>
-    <a href="https://gmail.com" target="blank"><img src="https://img.shields.io/badge/rezadilla30@gmail.com-30302f?style=flat&logo=gmail" /></a>
     <a href="https://drive.google.com/drive/folders/1OFKHT_GgUs80ucur4m6qqNWs1mt33D78" target="blank"><img src="https://img.shields.io/badge/My_Portfolio-30302f?style=flat&logo=drive" /></a>
+</p>
+ 
+ 
+ ### Lets Connect
+ <p>
+  <a href="https://www.linkedin.com/in/reza-dilla-saputri-05b17b190/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Reza_Dilla_Saputri-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://medium.com/@rezadilla30" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Reza_Dilla-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>  
+  <a href="https://www.kaggle.com/Reza_Dilla_Saputri" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Reza_Dilla_Saputti-2C8EBB?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>  
+  <a href="mailto:rezadilla30@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/rezadilla30@gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>     
+  <a href="https://www.instagram.com/reza_dilla" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@reza_dilla-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
 </p>
 
 
