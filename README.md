@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Reza Dilla 👋 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
+
+Currently I am open to any opportunity especially in Data as a Data Analyst, Data Engineer and Data Scientist. Interested in Machine Learning and Artificial Intelligence
+
+----------------------------------------------------------------------------------------------------------
+
+<img src="https://github-readme-stats.vercel.app/api?username=rezadilla&hide=contribs,prs&show_icons=true&hide_border=true&bg_color=ffffff&text_color=998100&icon_color=000&custom_title=Reza Dilla GitHub Stats&title_color=000" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadilla&layout=compact&bg_color=ffffff&card_width=444&hide_border=true&custom_title=Used Language&title_color=000"/> 
+
 
 <!--
 **rezadilla/rezadilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
