@@ -1,4 +1,4 @@
-### Hi there, I'm Reza!👋
+### Hi there, I'm Reza Dilla!👋
 Currently I am open to any opportunity especially in Data as a Data Analyst. Interested in Machine Learning and Artificial Intelligence
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -22,6 +22,8 @@ Currently I am open to any opportunity especially in Data as a Data Analyst. Int
 <p>
     <a href="https://linkedin.com/in/reza-dilla-saputri-05b17b190/" target="blank"><img src="https://img.shields.io/badge/Reza_Dilla_Saputri-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@brezadilla30" target="blank"><img src="https://img.shields.io/badge/Reza_Dilla-30302f?style=flat&logo=medium" /></a>
+    <a href="https://gmail.com" target="blank"><img src="https://img.shields.io/badge/rezadilla30@gmail.com-30302f?style=flat&logo=gmail" /></a>
+    <a href="https://drive.google.com/drive/folders/1OFKHT_GgUs80ucur4m6qqNWs1mt33D78" target="blank"><img src="https://img.shields.io/badge/My_Portfolio-30302f?style=flat&logo=drive" /></a>
 </p>
 
 
