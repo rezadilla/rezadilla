@@ -1,4 +1,4 @@
-### Hi there, I'm Reza Dilla 👋 <img align='right' src='https://raw.githubusercontent.com/M0nica/M0nica/main/octomonica/m0nica-octocat-rotating.gif' width='100'>
+### Hi there, I'm Reza Dilla 👋 <img align='right' src='https://raw.githubusercontent.com/M0nica/M0nica/main/octomonica/m0nica-octocat-rotating.gif' width='150'>
 
 Currently I am open to any opportunity especially in Data as a Data Analyst, Data Engineer and Data Scientist. Interested in Machine Learning and Artificial Intelligence
 
@@ -15,11 +15,11 @@ Currently I am open to any opportunity especially in Data as a Data Analyst, Dat
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
-<p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=rezadilla&hide=contribs,prs&show_icons=true&hide_border=true&bg_color=ffffff&text_color=998100&icon_color=000&custom_title=Reza Dilla GitHub Stats&title_color=000" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadilla&layout=compact&bg_color=ffffff&card_width=444&hide_border=true&custom_title=Used Language&title_color=000"/> 
-</p>
+
 
 ### Let's connect!
 <p>
