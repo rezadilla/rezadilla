@@ -28,8 +28,8 @@ Currently I am open to any opportunity especially in Data as a Data Analyst. Int
  <p>
   <a href="https://www.linkedin.com/in/reza-dilla-saputri-05b17b190/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Reza_Dilla_Saputri-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://medium.com/@rezadilla30" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Reza_Dilla-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>  
-  <a href="https://www.kaggle.com/Reza_Dilla_Saputri" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Reza_Dilla_Saputti-2C8EBB?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>  
-  <a href="mailto:rezadilla30@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/rezadilla30@gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>     
+  <a href="https://www.kaggle.com/Reza_Dilla_Saputri" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Reza_Dilla_Saputri-2C8EBB?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>  
+  <a href="mailto:rezadilla30@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rezadilla30@gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>     
   <a href="https://www.instagram.com/reza_dilla" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@reza_dilla-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
 </p>
 
