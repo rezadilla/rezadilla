@@ -10,7 +10,7 @@ Currently I am open to any opportunity especially in Data as a Data Analyst, Dat
 
 ### Let's connect!
 <p>
-    <a href="https://linkedin.com" target="blank"><img src="https://img.shields.io/badge/Reza_Dilla_Saputri-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://linkedin.com/in/reza-dilla-saputri-05b17b190/" target="blank"><img src="https://img.shields.io/badge/Reza_Dilla_Saputri-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@rezadilla30" target="blank"><img src="https://img.shields.io/badge/Reza_Dilla-30302f?style=flat&logo=medium" /></a>
 </p>
 
