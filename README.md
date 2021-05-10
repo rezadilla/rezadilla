@@ -1,5 +1,5 @@
 # Hi there, I'm Reza Dilla!👋
-Currently I am open to any opportunity especially in Data as a Data Analyst. Interested in Machine Learning and Artificial Intelligence
+Currently I am open to any opportunity especially in Data as a Data Analyst, Data Engineer, Data Scientist. Interested in Natural Language Processing, Machine Learning, and Artificial Intelligence
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## Stats:
